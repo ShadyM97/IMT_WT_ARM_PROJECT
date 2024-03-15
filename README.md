@@ -1,4 +1,16 @@
-This is an ARM project for IMT School/WazeefaTech Program that uses an ARM Cortex M4 Microcontroller STM32F401RCTB.
+# ARM Cortex-M4 Multimedia System
 
-The project uses a TFT Display, IR Sensor and R2R DAC. The TFT Displays images while R2R DAC plays an audio and  remote controller controls this system using the IR Sensor.
-The whole system is running on a basic OS.
+## Description
+This project is developed for the IMT School/WazeefaTech Program and involves an ARM Cortex-M4 microcontroller (STM32F401RCTB) controlling a multimedia system. The system integrates a TFT display, an IR sensor, and an R2R DAC to display images, play audio, and respond to user input from a remote controller.
+
+## Components
+- ARM Cortex-M4 Microcontroller (STM32F401RCTB)
+- TFT Display
+- IR Sensor
+- R2R DAC
+
+## Features
+- Displays images on the TFT display.
+- Plays audio through the R2R DAC.
+- Responds to user input from a remote controller via the IR sensor.
+- Basic operating system for task management and scheduling.
